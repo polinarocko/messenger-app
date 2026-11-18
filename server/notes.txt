@@ -1,0 +1,2 @@
+to kill the process on port:3000.:
+kill -9 $(lsof -ti :3000)
